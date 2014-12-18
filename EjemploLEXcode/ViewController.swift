@@ -3,7 +3,7 @@
 //  EjemploLEXcode
 //
 //  Created by kos on 18/12/14.
-//  Copyright (c) 2014 kos. All rights reserved.
+//  Copyright (c) 2014 kos. All rights reserved.d
 //
 
 import UIKit
